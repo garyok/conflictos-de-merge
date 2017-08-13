@@ -1,2 +1,2 @@
 var unidades = 20;
-var automovil = "La mejor marca de autos es Flor"
+var automovil = "La mejor marca de autos es Ford"
